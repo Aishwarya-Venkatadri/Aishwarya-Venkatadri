@@ -1,10 +1,8 @@
-# Aishwarya Venkatadri's Resume
-
 Hey there! 👋 Thanks for stopping by my virtual resume.
 
 ## Who Am I?
 
-I'm Aishwarya, a web development enthusiast and recent graduate from BrainStation. My journey involves crafting awesome websites, preventing online shenanigans, and turning creative ideas into impactful websites. I've spent time in Risk Management, danced with fraud prevention at Shopify and Amazon, and now I'm on a mission to build a better web, one line of code at a time.
+Hi there! My name is Aishwarya, and I'm a recent graduate from BrainStation with a passion for web development. I love creating awesome websites, preventing online shenanigans, and turning creative ideas into impactful websites. I have experience in Risk Management and have worked with fraud prevention at Shopify and Amazon. Now, I'm on a mission to build a better web, one line of code at a time.
 
 ## Skills Snapshot
 
@@ -29,7 +27,7 @@ I'm Aishwarya, a web development enthusiast and recent graduate from BrainStatio
 
 - 📧 Email: aishwaryabhargav@icloud.com
 - 👩‍💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aishwarya-venkatadri/)
-- 🌐 Portfolio: [Check out my work](#) [Optional]
+
 
 Feel free to reach out! Let's chat about how I can bring my passion and skills to your team. 🚀
 
