@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @Aishwarya-Venkatadri
-- 👀 I’m interested in bringing my imagination to reality. 
-- 🌱 I’m currently learning Web development
--I love geeky-cheeky jokes! want to read one?
-Two bytes meet. The first byte asks, “Are you ill?
-The second byte replies, “No, just feeling a bit off.” 
-- 📫 How to reach me .. connect through LinkedIn :) 
+# Aishwarya Venkatadri's Resume
 
-<!---
-Aishwarya-Venkatadri/Aishwarya-Venkatadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! 👋 Thanks for stopping by my virtual resume.
+
+## Who Am I?
+
+I'm Aishwarya, a web development enthusiast and recent graduate from BrainStation. My journey involves crafting awesome websites, preventing online shenanigans, and turning creative ideas into impactful websites. I've spent time in Risk Management, danced with fraud prevention at Shopify and Amazon, and now I'm on a mission to build a better web, one line of code at a time.
+
+## Skills Snapshot
+
+- **Web Development:** Knex.js, Express.js, Node.js, React.js, JSX
+- **API Magic:** Postman, Web Services, Axios
+- **Front-end Wizardry:** HTML5, CSS (SASS), Responsive Design
+- **Collaboration Hub:** GitHub
+- **Project Juggler:** JIRA
+
+## Recent Projects
+
+1. **Travel Site Project:**
+   - Crafted a responsive website for travel destinations using HTML, CSS, and some serious component thinking.
+
+2. **BrainFlix Video Streaming Platform:**
+   - Delivered a video streaming paradise with React, complete with a custom API server, multi-page functionality, and all the bells and whistles.
+
+3. **Eco Redefine:**
+   - Led the charge on a capstone project focused on promoting environmental awareness. Used React, Axios, Express, Node, and Knex to make the web a greener place.
+
+## Let's Connect!
+
+- 📧 Email: aishwaryabhargav@icloud.com
+- 👩‍💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aishwarya-venkatadri/)
+- 🌐 Portfolio: [Check out my work](#) [Optional]
+
+Feel free to reach out! Let's chat about how I can bring my passion and skills to your team. 🚀
+
