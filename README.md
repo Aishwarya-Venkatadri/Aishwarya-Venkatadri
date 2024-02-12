@@ -2,7 +2,7 @@ Hey there! 👋 Thanks for stopping by my virtual resume.
 
 ## Who Am I?
 
-Hi there! My name is Aishwarya, and I'm a recent graduate from BrainStation with a passion for web development. I love creating awesome websites, preventing online shenanigans, and turning creative ideas into impactful websites. I have experience in Risk Management and have worked with fraud prevention at Shopify and Amazon. Now, I'm on a mission to build a better web, one line of code at a time.
+Hi there! My name is Aishwarya. I love creating awesome websites, preventing online shenanigans, and turning creative ideas into impactful websites. I have experience in Risk Management and have worked with fraud prevention at Shopify and Amazon. Now, I'm on a mission to build a better web, one line of code at a time.
 
 ## Skills Snapshot
 
