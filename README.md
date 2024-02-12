@@ -8,16 +8,23 @@ Hi there! My name is Aishwarya. I love creating awesome websites, preventing onl
 
 Web Development:
 - Knex.js, Express.js, Node.js, React.js, JSX
+
 API Integration:
+
 - Postman API, Web Services API, Axios
+
 Front-end:
 - HTML5, CSS (SCSS), Responsive Web Design
+
 Version Control:
 - GitHub
+
 Project Management:
 - JIRA
+
 Testing:
 - Cypress
+
 Risk Management:
 - Fraud Pattern Detection and Prevention
 - Root Cause Analysis process review
