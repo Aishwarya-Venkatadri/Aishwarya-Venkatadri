@@ -1,4 +1,4 @@
-Hey there! 👋 Thanks for stopping by my virtual resume.
+Hey there! 👋 Thanks for stopping by!
 
 ## Who Am I?
 
